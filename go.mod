@@ -1,4 +1,4 @@
-module github.com/ewe2/dockerfileview/v1
+module github.com/ewe2/dockerfileview
 
 go 1.17
 
