@@ -1,2 +1,2 @@
 FROM golang
-RUN go get github.com/remore/dockerfileview
+RUN go get github.com/ewe2/dockerfileview
